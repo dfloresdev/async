@@ -14,6 +14,12 @@ Work with **XMLHttpRequest**
 npm install
 ```
 
+## Commands
+
+1. `npm run challenge` Run the code with **callbacks**
+2. `npm run challenge:async` Run the code with **async** and **await**
+3. `npm run challenge:marvel` Run the best example in the world with **async** and **await**
+
 ## Details
 
 - How to start with marvel api: [getting started](https://developer.marvel.com/documentation/getting_started)
