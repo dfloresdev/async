@@ -1,18 +1,20 @@
-#Marvel API
+# Marvel API
+
 This work show the next:
 
 1. Show the name the best super hero in the world
 2. Show the **id** and **name** of the first comic
 3. Show the workers in this comic
 
-##Installation
+## Installation
+
 Work with **XMLHttpRequest**
 
 ```
 npm install
 ```
 
-##Details
+## Details
 
 - How to start with marvel api: [getting started](https://developer.marvel.com/documentation/getting_started)
 - Instructions to build your API KEY: [Build your api pal](https://developer.marvel.com/documentation/authorization)
