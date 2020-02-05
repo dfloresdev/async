@@ -5,7 +5,6 @@ const fetchData = url_api => {
     const xhttp = new XMLHttpRequest();
 
     xhttp.open('GET', url_api, true);
-
     xhttp.onreadystatechange = () => {
       if (xhttp.readyState === 4) {
         xhttp.status === 200
